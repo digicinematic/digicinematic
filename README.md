@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @digicinematic, a.k.a Brian.
+- 👋 Hi, I’m @digicinematic, a.k.a. Brian.
 - 👀 I’m interested in science fiction and fantasy movies + tv shows.
 - 🌱 I’m currently learning Rust (for systems development) and Cypher (for Neo4j graph database management.)
 - 💞️ I’m looking to collaborate on a student management system.
